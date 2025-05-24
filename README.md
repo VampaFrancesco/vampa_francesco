@@ -12,8 +12,6 @@
 ### 🔨 Languages and Tools:
 
 <div align="center">
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
-    <img alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" style="margin:5px;">
   </a>
   <a href="https://developer.android.com" target="_blank" rel="noopener noreferrer">
     <img alt="Android" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg" style="margin:5px;">
@@ -29,12 +27,6 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
     <img alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg" style="margin:5px;">
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-    <img alt="TypeScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg" style="margin:5px;">
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-    <img alt="React" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" style="margin:5px;">
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
     <img alt="Node.js" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" style="margin:5px;">
